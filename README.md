@@ -34,8 +34,9 @@ The database is available in CSV and MMDB formats in the [**ip-to-asn**](https:/
 | `network`      | IP address range in CIDR notation  | `1.0.4.0/22`       |
 | `asn`          | Autonomous System Number           | `38803`            |
 | `country_code` | Two-letter ISO 3166-1 alpha-2 code | `AU`               |
-| `netname`      | Network name assignment            | `GTELECOM-AS-AP`   |
-| `description`  | Description of the ASN holder      | `Gtelecom Pty Ltd` |
+| `name`         | Network name assignment            | `GTELECOM-AS-AP`   |
+| `org`          | Organization of the ASN holder     | `Gtelecom Pty Ltd` |
+| `domain`       | Domain of the ASN holder           | `gtelecom.com.au`  |
 
 ## License for free IP address databases
 
